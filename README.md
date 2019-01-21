@@ -3,6 +3,7 @@ En el ejercicio XSS STORED de DVWA, podemos alterar el código fuente o insertar
 ![image](https://user-images.githubusercontent.com/46895869/51488994-03953500-1d75-11e9-9770-fc9149cb2519.png)
 
 
+![image](https://user-images.githubusercontent.com/46895869/51489062-34756a00-1d75-11e9-9757-56dbf7174223.png)
 
 Dónde el código es: XSS-STORE-INICIAL.txt
 
