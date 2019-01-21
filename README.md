@@ -1,5 +1,9 @@
 En el ejercicio XSS STORED de DVWA, podemos alterar el código fuente o insertar script:
 
+![image](https://user-images.githubusercontent.com/46895869/51488994-03953500-1d75-11e9-9770-fc9149cb2519.png)
+
+
+
 Dónde el código es: XSS-STORE-INICIAL.txt
 
 Sanitizamos los mensajes y nombres de entrada con lo siguiente:
