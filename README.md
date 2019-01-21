@@ -17,3 +17,5 @@ Usamos strip_tags para eliminar las etiquetas HTML de las cadenas que se envían
 Dónde el código es: XSS-STORE-FINAL.txt
 Luego de la corrección, ya no se modifica el texto insertado ni se inserta el script:
 
+![image](https://user-images.githubusercontent.com/46895869/51489212-afd71b80-1d75-11e9-8b1a-76f1df17f522.png)
+
